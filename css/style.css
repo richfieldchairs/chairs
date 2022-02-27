@@ -7321,6 +7321,9 @@ h3#chair-name-2 {
 	.product-slider .owl-dots {
 		visibility: visible;
 	}
+	.single-latest-blog .latest-text a h4 {
+		font-size: 17px;
+	}
 }
 
 @media only screen and (max-height: 750px) {
